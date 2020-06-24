@@ -1,13 +1,13 @@
-#Heuristic - Maximization of a Building Surface on a Parcel of Land using the Tabu Search Algorithm#
+#Heuristic - Maximization of a Building Surface on a Parcel of Land using the Tabu Search Algorithm
 
-##The problematic##
+##The problematic
 
 >An architectural firm proposes the following simplified problem: “find the building with
 the largest floor area contained in the given parcel”, this can be rewritten in the form of the
 optimization problems of maximization: Given any polygon (convex or concave), the goal is to
 find the largest rectangle contained in it.
 
-##A Tabu Search approach to solve the problem##
+##A Tabu Search approach to solve the problem
 
 <br>Regarding the architectural institution introduced the problem that we attempt to optimize
 the maximization of a building’s surface on a parcel of land with heuristic and stochastic
